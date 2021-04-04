@@ -1,0 +1,21 @@
+body {
+  background-color: #f7f3e9;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color:gray;
+  border-width: 4px;
+  width: 5%;
+}
+/*another way to get the border-style is by creating
+a different value for the top. e.g border-top-style:dotted;
+border-style:none; */
+
+h1{
+color: #7b113a;
+}
+
+h3{
+color: #3e4444;
+}
